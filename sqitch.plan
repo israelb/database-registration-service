@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=database-registration-service
+
+roles/registration-component 2022-03-17T19:51:09Z israel <developer@isra.local> # role for registration component
